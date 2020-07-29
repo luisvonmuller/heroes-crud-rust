@@ -1,0 +1,1 @@
+Medium article: [https://medium.com/@luis_50157/a-simple-crud-on-rust-with-rocket-rs-and-diesel-rs-e885672cb23d](https://medium.com/@luis_50157/a-simple-crud-on-rust-with-rocket-rs-and-diesel-rs-e885672cb23d)
